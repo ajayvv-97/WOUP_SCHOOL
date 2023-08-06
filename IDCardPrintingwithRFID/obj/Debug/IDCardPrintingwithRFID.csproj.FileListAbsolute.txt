@@ -1,0 +1,580 @@
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csprojAssemblyReference.cache
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\DBA\Desktop\IDCardPrintingwithRFID\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.Login.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_02-09-2019\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csprojAssemblyReference.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.Login.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_03-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.Login.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Unnimaya\Desktop\IDCard Printing\JOSH_MALL\IDCardPrintingwithRFID\IDCardPrintingwithRFID_04-09-2019\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.Login.resources
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+D:\mPOS\IDCardPrintingwithRFID_04-09-2019_Final\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.Login.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csprojAssemblyReference.cache
+C:\Hari\mn\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.Login.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\AYJ_CardLib_Mi.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\AYJ_CardLib_Ul.dll
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\AYJ_CardLib_Mi.pdb
+D:\mPOS\IDCardPrintingwithRFID\IDCardPrintingwithRFID\bin\Debug\AYJ_CardLib_Ul.pdb
+\\WINSERVER\pShare\Hari\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+\\WINSERVER\pShare\Hari\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+\\WINSERVER\pShare\Hari\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+\\WINSERVER\pShare\Hari\IDCardPrintingwithRFID\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csprojAssemblyReference.cache
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\hari\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csprojAssemblyReference.cache
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csprojAssemblyReference.cache
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\Rahul\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.AssemblyReference.cache
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.SuggestedBindingRedirects.cache
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\aljo\Desktop\IDCardPrintingwithRFID 29-10-20\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.csproj.AssemblyReference.cache
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.csproj.SuggestedBindingRedirects.cache
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\Desktop\National Huda Central School 10-31-22\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.AssemblyReference.cache
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.SuggestedBindingRedirects.cache
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\Desktop\teachers photos\National Huda Central School 4-11-22 - Copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.AssemblyReference.cache
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.SuggestedBindingRedirects.cache
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\Desktop\HUDA PROJECT\National Huda Central School 5-11-2022 original copy\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.AssemblyReference.cache
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\OneDrive\Desktop\huda\National_Huda\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe.config
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\IDCardPrintingwithRFID.pdb
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\BarcodeStandard.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\itextsharp.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Design.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\MetroFramework.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\MySql.Data.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\System.Drawing.Common.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\zxing.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\Google.Protobuf.xml
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\itextsharp.xml
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\MySql.Data.xml
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\Renci.SshNet.xml
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\zxing.pdb
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\zxing.xml
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.pdb
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\zxing.presentation.xml
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.AssemblyReference.cache
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.ResolveComReference.cache
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Form1.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.dashboard.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmExcelUpload.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmlogin.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmOTP.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.FrmRegistration.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Forms.frmSplash.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.Properties.Resources.resources
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.GenerateResource.cache
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CoreCompileInputs.cache
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.csproj.CopyComplete
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.exe
+C:\Users\ajay\OneDrive\Desktop\woup\IDCardPrintingwithRFID\obj\Debug\IDCardPrintingwithRFID.pdb
